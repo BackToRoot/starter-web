@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
-The purpose of this project is still in question. Adding text for reabasing exaple.
+The purpose of this project is still in question. Adding text for reabasing example, more changes.
 
 ## Deployment
 
