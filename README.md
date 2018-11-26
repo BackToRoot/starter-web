@@ -17,3 +17,5 @@ The Deployment can be done into a server
 ## Contribution
 
 Helps are always welcome
+
+Copyright 2018 Git.Training
