@@ -11,3 +11,9 @@ Sample website with plenty of files for demos
 The purpose of this project is still in question
 
 ## Deployment
+
+The Deployment can be done into a server
+
+## Contribution
+
+Helps are always welcome
