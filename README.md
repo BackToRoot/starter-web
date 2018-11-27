@@ -18,4 +18,4 @@ The Deployment can be done into a server
 
 Helps are always welcome. Please contact me anytime.
 
-Copyright 2018 Git.Training
+Copyright 2018 Git.Training. ALl rights reserve.
